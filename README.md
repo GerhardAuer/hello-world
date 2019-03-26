@@ -1,2 +1,2 @@
 # hello-world
-Beginner for testing MS Hololens.
+Beginner for testing MS HoloLens.
